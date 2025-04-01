@@ -1,18 +1,18 @@
 {
   "owner": [
-    "628xxxxxxx"
+    "6283826995772"
   ],
-  "botname": "(Experimental) -▪︎ Bella-AI",
-  "botfullname": "Bella clarissa",
-  "botnickname": "Bella",
-  "ownername": "rifza",
+  "botname": "nayx",
+  "botfullname": "nana flower",
+  "botnickname": "naz",
+  "ownername": "NaSyrx",
   "locale": "id",
   "cfg": {
     "public": true,
     "ai_interactive": {
       "group": true,
       "private": true,
-      "energy": false,
+      "energy": true,
       "partResponse": true
     },
     "autotyping": false,
