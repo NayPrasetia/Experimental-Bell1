@@ -110,7 +110,7 @@ async function launch() {
   			if (!(isMessage || isStubType)) return;
   			if (cht.key.remoteJid === 'status@broadcast') {
 
-  				if(!cfg.reactsw) cfg.reactsw = { on: false, emojis: ["😍","😂","😬","🤢","🤮","🥰","😭"] }
+  				if(!cfg.reactsw) cfg.reactsw = { on: false, emojis: ["😍","😛","🤭","🌝","❤️","💚","🤍"] }
   				
   			    if(cfg.reactsw.on){
   				  let { emojis } = cfg.reactsw
